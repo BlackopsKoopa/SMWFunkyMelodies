@@ -40,12 +40,12 @@ class CreditsState extends MusicBeatState
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Funky Melodies Team'],
-			['Black-ops Koopa',		'',		'Director, Composer, Artist and Charter.',					 'https://ko-fi.com/shadowmario',		'444444'],
+			['Black-ops Koopa',		'',		'Director, Composer, Artist and Charter.',					 'https://ko-fi.com/shadowmario',		'000000'],
 			['Melody Koopa',				'',			'Composer',						 'https://twitter.com/riverennn',		'14967B'],
 			['SonicNES',		'',		'Artist',					 'https://ko-fi.com/shadowmario',		'444444'],
 			['EDiddy471',				'',			'Artist',						 'https://twitter.com/riverennn',		'14967B'],
 			['Dogy JR',		'',		'Coder.',					 'https://ko-fi.com/shadowmario',		'444444'],
-			['Melody Koopa',				'',			'Composer',						 'https://twitter.com/riverennn',		'14967B'],
+			['uh',				'',			'',						 'https://twitter.com/riverennn',		'14967B'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer and Head of Psych Engine',					 'https://ko-fi.com/shadowmario',		'444444'],
